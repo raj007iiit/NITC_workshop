@@ -1,0 +1,101 @@
+Gender,Age,Course,CGPA,Marital status,Depression,Anxiety,Panic attack,Specialist Treatment,Year
+Female,18,ENGINEERING,3.00 - 3.49,No,Yes,No,Yes,No,1
+Male,21,ISLAMIC EDUCATION,3.00 - 3.49,No,No,Yes,No,No,2
+Male,19,BIT,3.00 - 3.49,No,Yes,Yes,Yes,No,1
+Female,22,LAW,3.00 - 3.49,Yes,Yes,No,No,No,3
+Male,23,MATHEMATHICS,3.00 - 3.49,No,No,No,No,No,4
+Male,19,ENGINEERING,3.50 - 4.00,No,No,No,Yes,No,2
+Female,23,PENDIDIKAN ISLAM,3.50 - 4.00,Yes,Yes,No,Yes,No,2
+Female,18,BCS,3.50 - 4.00,No,No,Yes,No,No,1
+Female,19,HUMAN RESOURCES,2.50 - 2.99,No,No,No,No,No,2
+Male,18,IRKHS,3.50 - 4.00,No,No,Yes,Yes,No,1
+Female,20,PSYCHOLOGY,3.50 - 4.00,No,No,No,No,No,1
+Female,24,ENGINEERING,3.50 - 4.00,Yes,Yes,No,No,No,3
+Female,18,BCS,3.00 - 3.49,No,Yes,No,No,No,1
+Male,19,ENGINEERING,3.00 - 3.49,No,No,No,No,No,1
+Female,18,KENMS,3.50 - 4.00,No,No,Yes,No,No,2
+Male,24,BCS,3.50 - 4.00,No,No,No,No,No,3
+Female,24,ACCOUNTING,3.00 - 3.49,No,No,No,No,No,3
+Female,24,ENM,3.00 - 3.49,Yes,Yes,Yes,Yes,No,4
+Female,20,BIT,3.50 - 4.00,No,No,Yes,No,No,2
+Female,18,MARINE SCIENCE,3.50 - 4.00,Yes,Yes,Yes,Yes,No,2
+Female,19,ENGINEERING,3.00 - 3.49,No,No,No,Yes,No,1
+Female,18,KOE,3.00 - 3.49,No,No,No,No,No,2
+Female,24,BCS,3.50 - 4.00,No,No,No,No,No,1
+Female,24,ENGINEERING,3.00 - 3.49,No,No,No,No,No,1
+Female,23,BCS,3.50 - 4.00,No,Yes,Yes,Yes,No,3
+Female,18,BANKING STUDIES,3.50 - 4.00,No,No,No,No,No,1
+Female,19,ENGINEERING,3.50 - 4.00,No,No,No,No,No,1
+Male,18,ENGINEERING,3.00 - 3.49,Yes,Yes,Yes,No,No,2
+Female,24,BIT,3.50 - 4.00,Yes,Yes,Yes,Yes,Yes,3
+Female,24,BCS,3.50 - 4.00,No,No,No,No,No,4
+Female,23,BUSINESS ADMINISTRATION,3.00 - 3.49,No,No,No,No,No,2
+Male,18,BCS,3.00 - 3.49,No,No,No,No,No,2
+Male,19,BCS,3.50 - 4.00,No,No,No,Yes,No,1
+Male,18,BCS,3.50 - 4.00,Yes,Yes,Yes,No,Yes,2
+Female,19,BIT,3.00 - 3.49,No,Yes,Yes,Yes,No,1
+Female,18,ENGINEERING,2.00 - 2.49,No,No,No,No,No,1
+Female,18,LAW,3.00 - 3.49,No,Yes,Yes,No,No,3
+Female,19,BIT,2.50 - 2.99,No,Yes,Yes,Yes,No,1
+Female,18,KIRKHS,3.50 - 4.00,No,No,No,No,No,1
+Female,24,ENGINEERING,2.50 - 2.99,Yes,Yes,No,Yes,Yes,2
+Female,24,BIT,3.00 - 3.49,No,No,Yes,No,No,3
+Female,22,ENGINEERING,3.50 - 4.00,No,No,No,No,No,4
+Female,20,USULUDDIN,3.00 - 3.49,No,Yes,No,No,No,2
+Male,23,TAASL,3.50 - 4.00,No,No,No,Yes,No,2
+Male,18,BCS,3.50 - 4.00,No,No,Yes,Yes,No,1
+Female,19,ENGINEERING,3.50 - 4.00,No,No,Yes,No,No,1
+Female,18,ENGINEERING,3.50 - 4.00,No,No,No,No,No,4
+Male,24,BCS,3.00 - 3.49,No,Yes,No,No,No,2
+Female,24,BCS,3.50 - 4.00,No,No,No,Yes,No,3
+Female,23,ALA,2.50 - 2.99,Yes,Yes,No,Yes,Yes,1
+Female,18,BCS,3.50 - 4.00,No,No,Yes,No,No,2
+Female,19,BIOMEDICAL SCIENCE,3.00 - 3.49,No,No,No,No,No,3
+Female,20,KOE,3.00 - 3.49,Yes,Yes,Yes,Yes,No,3
+Female,19,BCS,3.50 - 4.00,No,Yes,No,Yes,Yes,1
+Male,21,BCS,3.00 - 3.49,No,No,No,No,No,1
+Male,23,KIRKHS,3.50 - 4.00,No,No,No,No,No,3
+Female,20,BENL,3.00 - 3.49,No,Yes,Yes,No,No,3
+Female,18,BCS,3.50 - 4.00,No,No,No,No,No,1
+Female,23,BENL,3.00 - 3.49,No,No,No,No,No,1
+Female,18,IT,3.00 - 3.49,No,No,No,Yes,No,3
+Female,19,BCS,3.50 - 4.00,No,No,No,No,No,1
+Female,18,CTS,3.50 - 4.00,No,No,No,Yes,No,1
+Female,24,ENGINEERING,3.50 - 4.00,No,No,No,Yes,No,1
+Female,24,ENGINEERING,3.50 - 4.00,No,No,No,No,No,1
+Female,23,ECONS,3.50 - 4.00,No,Yes,Yes,No,No,1
+Female,18,KOE,3.00 - 3.49,No,No,Yes,No,No,3
+Male,19,MHSC,3.00 - 3.49,Yes,Yes,No,Yes,No,3
+Female,18,MALCOM,3.50 - 4.00,No,Yes,No,No,No,1
+Female,24,KOP,3.00 - 3.49,No,No,Yes,No,No,4
+Female,24,BIOMEDICAL SCIENCE,3.00 - 3.49,No,No,No,No,No,1
+Female,18,LAW,3.50 - 4.00,No,No,No,Yes,No,3
+Female,19,BIT,3.00 - 3.49,Yes,Yes,No,No,No,3
+Male,18,BIOMEDICAL SCIENCE,0 - 1.99,No,No,No,No,No,1
+Male,24,BIT,3.50 - 4.00,No,No,Yes,No,No,3
+Female,24,KOE,3.50 - 4.00,No,No,Yes,Yes,No,1
+Female,23,ENGINEERING,3.00 - 3.49,No,Yes,No,No,No,1
+Female,18,HUMAN SCIENCES,3.00 - 3.49,No,No,No,Yes,No,2
+Female,19,BIOTECHNOLOGY,0 - 1.99,No,No,No,No,No,3
+Female,18,ENGINEERING,3.50 - 4.00,No,No,No,No,No,4
+Female,24,COMMUNICATION,3.50 - 4.00,Yes,Yes,Yes,Yes,No,2
+Female,24,NURSING,3.50 - 4.00,No,No,No,No,No,2
+Female,19,ENGINEERING,3.00 - 3.49,No,Yes,Yes,No,No,1
+Female,19,PENDIDIKAN ISLAM,3.00 - 3.49,No,No,No,No,No,2
+Male,23,RADIOGRAPHY,3.00 - 3.49,No,No,No,No,No,1
+Female,18,PSYCHOLOGY,3.50 - 4.00,No,Yes,Yes,No,Yes,1
+Female,19,FIQH FATWA,3.00 - 3.49,No,No,No,No,No,3
+Female,18,PSYCHOLOGY,3.50 - 4.00,No,Yes,Yes,Yes,No,1
+Male,24,BIT,3.00 - 3.49,No,No,Yes,No,No,1
+Male,24,ENGINEERING,2.00 - 2.49,No,No,No,Yes,No,2
+Female,23,DIPLOMA TESL,3.50 - 4.00,No,No,No,Yes,No,3
+Male,18,KOE,3.00 - 3.49,No,No,Yes,No,No,2
+Female,19,KOE,3.00 - 3.49,Yes,Yes,No,No,No,2
+Female,18,BENL,3.00 - 3.49,No,Yes,No,No,No,1
+Female,24,FIQH FATWA,0 - 1.99,No,No,No,Yes,No,3
+Female,18,ISLAMIC EDUCATION,3.50 - 4.00,No,No,No,No,No,1
+Female,21,BCS,3.50 - 4.00,No,No,Yes,No,No,1
+Male,18,ENGINEERING,3.00 - 3.49,No,Yes,Yes,No,No,2
+Female,19,NURSING,3.50 - 4.00,Yes,Yes,No,Yes,No,3
+Female,23,PENDIDIKAN ISLAM,3.50 - 4.00,No,No,No,No,No,4
+Male,20,BIOMEDICAL SCIENCE,3.00 - 3.49,No,No,No,No,No,2
